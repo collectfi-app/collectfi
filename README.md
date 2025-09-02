@@ -1,6 +1,6 @@
 # CollectFi API
 
-<img width="1080" height="360" alt="WhatsApp Image 2025-08-21 at 22 23 12" src="https://github.com/user-attachments/assets/1ae5ff6c-52bd-46d9-afb6-f5eec31e8af6" />
+<img width="1080" height="360" alt="WhatsApp Image 2025-08-21 at 22 23 12" src="https://github.com/user-attachments/assets/72780a04-b4c0-4caa-8b19-eadc133ba157" />
 
 > **Invest in grails. Trade culture. Diversify with SOL.**
 
